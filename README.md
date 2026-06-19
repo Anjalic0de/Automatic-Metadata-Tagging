@@ -205,6 +205,11 @@ The system generates:
 
 **Branch:** Information Technology
 
+**CGPA:** 7.22/10
+
+
+
+
 ---
 
 ## Author
